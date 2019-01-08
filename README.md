@@ -1,6 +1,6 @@
 # Google VR SDK for Android
 
-Enables Daydream and Cardboard app development on Android.
+ Daydream and Cardboard app development on Android.
 
 Copyright (c) 2018 Google Inc.
 
@@ -21,3 +21,4 @@ SDK releases are availble from the
 [releases](//github.com/googlevr/gvr-android-sdk/releases) page.
 
 Please note, we do not accept pull requests.
+9SHqNUR2d7
